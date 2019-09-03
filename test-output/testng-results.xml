@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+    <line>
+      <![CDATA[All in Lower Case|Products – Megan Corey]]>
+    </line>
+    <line>
+      <![CDATA[All in Lower Case|Test Product (Copy) – Megan Corey]]>
+    </line>
+    <line>
+      <![CDATA[All in Lower Case|Product #3 (Copy) – Megan Corey]]>
+    </line>
+    <line>
+      <![CDATA[All in Lower Case|Product #3 – Megan Corey]]>
+    </line>
+    <line>
+      <![CDATA[All in Lower Case|Cart – Megan Corey]]>
+    </line>
+    <line>
+      <![CDATA[All in Lower Case|Cart – Megan Corey]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="77259" started-at="2019-08-30T15:46:04 SGT" finished-at="2019-08-30T15:47:21 SGT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="77259" started-at="2019-08-30T15:46:04 SGT" finished-at="2019-08-30T15:47:21 SGT">
+      <class name="demowithJUnit.TR_03">
+        <test-method status="PASS" signature="RunningTests()[pri:0, instance:demowithJUnit.TR_03@73e9cf30]" name="RunningTests" is-config="true" duration-ms="29853" started-at="2019-08-30T15:46:04 SGT" finished-at="2019-08-30T15:46:34 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunningTests -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:demowithJUnit.TR_03@73e9cf30]" name="Test1" duration-ms="152" started-at="2019-08-30T15:46:34 SGT" finished-at="2019-08-30T15:46:34 SGT">
+          <reporter-output>
+            <line>
+              <![CDATA[All in Lower Case|Products – Megan Corey]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="RunningTests()[pri:0, instance:demowithJUnit.TR_03@73e9cf30]" name="RunningTests" is-config="true" duration-ms="3936" started-at="2019-08-30T15:46:34 SGT" finished-at="2019-08-30T15:46:38 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunningTests -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:demowithJUnit.TR_03@73e9cf30]" name="Test2" duration-ms="10351" started-at="2019-08-30T15:46:38 SGT" finished-at="2019-08-30T15:46:48 SGT">
+          <reporter-output>
+            <line>
+              <![CDATA[All in Lower Case|Test Product (Copy) – Megan Corey]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="RunningTests()[pri:0, instance:demowithJUnit.TR_03@73e9cf30]" name="RunningTests" is-config="true" duration-ms="1956" started-at="2019-08-30T15:46:48 SGT" finished-at="2019-08-30T15:46:50 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunningTests -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:demowithJUnit.TR_03@73e9cf30]" name="Test3" duration-ms="10869" started-at="2019-08-30T15:46:50 SGT" finished-at="2019-08-30T15:47:01 SGT">
+          <reporter-output>
+            <line>
+              <![CDATA[All in Lower Case|Product #3 (Copy) – Megan Corey]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method status="PASS" signature="RunningTests()[pri:0, instance:demowithJUnit.TR_03@73e9cf30]" name="RunningTests" is-config="true" duration-ms="3761" started-at="2019-08-30T15:47:01 SGT" finished-at="2019-08-30T15:47:05 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunningTests -->
+        <test-method status="PASS" signature="Test4()[pri:0, instance:demowithJUnit.TR_03@73e9cf30]" name="Test4" duration-ms="5805" started-at="2019-08-30T15:47:05 SGT" finished-at="2019-08-30T15:47:10 SGT">
+          <reporter-output>
+            <line>
+              <![CDATA[All in Lower Case|Product #3 – Megan Corey]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+        <test-method status="PASS" signature="RunningTests()[pri:0, instance:demowithJUnit.TR_03@73e9cf30]" name="RunningTests" is-config="true" duration-ms="2143" started-at="2019-08-30T15:47:10 SGT" finished-at="2019-08-30T15:47:13 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunningTests -->
+        <test-method status="PASS" signature="Test5()[pri:0, instance:demowithJUnit.TR_03@73e9cf30]" name="Test5" duration-ms="4264" started-at="2019-08-30T15:47:13 SGT" finished-at="2019-08-30T15:47:17 SGT">
+          <reporter-output>
+            <line>
+              <![CDATA[All in Lower Case|Cart – Megan Corey]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test5 -->
+        <test-method status="PASS" signature="RunningTests()[pri:0, instance:demowithJUnit.TR_03@73e9cf30]" name="RunningTests" is-config="true" duration-ms="1581" started-at="2019-08-30T15:47:17 SGT" finished-at="2019-08-30T15:47:18 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunningTests -->
+        <test-method status="PASS" signature="Test6()[pri:0, instance:demowithJUnit.TR_03@73e9cf30]" name="Test6" duration-ms="2541" started-at="2019-08-30T15:47:18 SGT" finished-at="2019-08-30T15:47:21 SGT">
+          <reporter-output>
+            <line>
+              <![CDATA[All in Lower Case|Cart – Megan Corey]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test6 -->
+        <test-method status="PASS" signature="end()[pri:0, instance:demowithJUnit.TR_03@73e9cf30]" name="end" is-config="true" duration-ms="206" started-at="2019-08-30T15:47:21 SGT" finished-at="2019-08-30T15:47:21 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- demowithJUnit.TR_03 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
